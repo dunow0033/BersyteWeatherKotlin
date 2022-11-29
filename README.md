@@ -16,4 +16,8 @@ An Android App where you can check weather from city you want  and see forecast 
 
 
 
-<img src="https://user-images.githubusercontent.com/68303716/115702966-3a05f400-a372-11eb-8695-ede8b6119154.png " width="270" height="580">  
+<img src="https://user-images.githubusercontent.com/68303716/115702966-3a05f400-a372-11eb-8695-ede8b6119154.png " width="270" height="580">
+
+https://github.com/IsaiasCuvula/weather_app
+
+https://www.youtube.com/watch?v=IsrzPlEz7uM
